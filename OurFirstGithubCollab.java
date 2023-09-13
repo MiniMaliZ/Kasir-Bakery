@@ -6,5 +6,7 @@ public class OurFirstGithubCollab{
         System.out.println("Ketua Mulai mengembangkan fitur kedua");
         //ketiga
         System.out.println("Tambahan dari anggota 1");
+        //keempat
+        System.out.println("menyelesaikan fitur kedua");
     }
 }
